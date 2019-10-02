@@ -1,0 +1,9 @@
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\bin\Debug\netcoreapp2.1\Bog.deps.json
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\bin\Debug\netcoreapp2.1\Bog.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\bin\Debug\netcoreapp2.1\Bog.pdb
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.csprojAssemblyReference.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.csproj.CoreCompileInputs.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.AssemblyInfoInputs.cache
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.AssemblyInfo.cs
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.dll
+C:\Users\thomas\Documents\Datamatiker\Programmering\Projekter\Obligatorisk\BogLib\Bog\obj\Debug\netcoreapp2.1\Bog.pdb
